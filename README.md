@@ -28,7 +28,19 @@
  Software for Main Controler (Teensy) is not fully done.
 
  Special Thanks to Rabby S21RC who inspired me with is great and nice SSPA Controler 
- 
+
+- Main Controler
+- https://github.com/NNeveur/MultiAntennaControler/tree/MainControler
+
+- Antennas Switch Module
+- https://github.com/NNeveur/MultiAntennaControler/tree/AntSwModule
+
+- Magnetic Loop Antenna Module
+- https://github.com/NNeveur/MultiAntennaControler/tree/AntLoopModule
+
+- VariLenght (Poorman StepR) Antenna Module
+- https://github.com/NNeveur/MultiAntennaControler/tree/AntPoorModule
+
  
 ![MainControl](https://github.com/user-attachments/assets/b221a1fb-7753-4c5d-a02f-8de5f6859774)
 ![SetupControl](https://github.com/user-attachments/assets/cce99413-3a82-4369-b0eb-89f44497b111)
