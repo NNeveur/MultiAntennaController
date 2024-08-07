@@ -3,7 +3,8 @@
  
  Main controler is a Teensy 4.0 with a Nextion tactil screen and a rotary encoder.
  
- It talk to Antenna control module via a RS485 bus with a 12v supply tru a RJ45 and network cable ( preferably sheilded) pair 1 =+12V pair 2 = RS485 A pair 3 = RS485 B pair 4 = Ground
+ It talk to Antenna control module via a RS485 bus with a 12v supply tru a RJ45 and network cable ( preferably sheilded) pair 1 =+12V pair 2 = RS485 A/B pair 3 = Not use pair 4 = Ground
+ RS485 can handle 115kbits/s on a 2500 feets long cable, fast enough to control step motor with acknowledged command, two wires are used so it is half duplex bus and and up to 32 units can plug to the bus.
  
  It also have a TTL RS232 CAT Radio control, I2C if need, Frequency counter to read Frequency from sampled TX and Standing wave Bridge Forward / Reverse
  
