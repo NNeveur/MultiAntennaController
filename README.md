@@ -26,7 +26,8 @@
  I have couple of boards in production, I need to do hardware debuging
  
  Software for Main Controler (Teensy) is not fully done.
- 
+
+ Special Thanks to Rabby S21RC who inspired me with is great and nice SSPA Controler 
  
  
 ![MainControl](https://github.com/user-attachments/assets/b221a1fb-7753-4c5d-a02f-8de5f6859774)
