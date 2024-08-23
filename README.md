@@ -1,4 +1,5 @@
 # Multi Antennas Switcher and Controler
+# from VE2NNX Nicolas
  Controler to switch from up to 8 Antennas types MagLoop, VariLenght (Poorman StepR) Slopper and Dipole, Yeasu ATAS and Modules control for them.
  
  Main controler is a Teensy 4.0 with a Nextion tactil screen and a rotary encoder.
