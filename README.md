@@ -25,7 +25,7 @@
  
  Mag Loop Controler software is greatly inspired by Loftur TF3LJ/VE2AO Mag Loop Controler
  
- The VariLength (Poorman StepR) Antenna module control have one or two L298N DC motor driver and one or two photo counter for a wheel encoder to count length of the wire.
+ The VariLength (Poorman StepR) Antenna module control have one or two L298N DC motor driver and one or two photo counter for a wheel encoder to count length of the wire. I found DC motors 40 RPM geard auto lock with build-in encoder, I will give it a try even if the calculated wire length will be less precise, anyway the final ajustement is done by reading the SWR Bridge. Now i have to find a strented copper wire or copper clad 18 gauge. 150 feet cut in half will do the job for dipole version that can do 80 to 10 meters
 
  I have couple of boards in production, I need to do hardware debuging
  
