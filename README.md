@@ -2,12 +2,14 @@
 # from VE2NNX Nicolas
  Controler to switch from up to 8 Antennas types MagLoop, VariLenght (Poorman StepR) Slopper and Dipole, Yeasu ATAS and Modules control for them.
  
- Main controler is a Teensy 4.0 with a Nextion tactil screen and a rotary encoder.
+ Main controler is a Teensy 4.0 with a Nextion tactil screen and a rotary encoder. and for the ones who think 2Meg of RAM is not enough, I'am preparing a version of Main controller with Teensy 4.1 8Meg of Ram + SP1 interface, a second I2C interface and a CAN BUS Interface.
  
  It talk to Antenna control module via a RS485/RS422 bus with a 12v supply tru a RJ45 and network cable ( preferably sheilded) pair 1 =+12V, pair 2 = RS485 A/B, pair 3 = RS485 X/Y, pair 4 = Ground
  RS485/RS422 can handle 115kbits/s on a 2500 feets long cable, fast enough to control step motor with acknowledged command, two wires are used so it is half duplex bus and and up to 32 units can plug to the bus.
  
  It also have a TTL RS232 CAT Radio control, I2C if need, Frequency counter to read Frequency from sampled TX and Standing wave Bridge Forward / Reverse
+
+ You only have to add TTL to RS485/RS422 module interface, and TTL to RS232 for CAT interface, they can easely found on Amazone or the place uf you choice, you be carefull the modules for the Main Controller have to work on 3.3 volrs because au Teensy, but all the other Antenna module can be 5 Volrs because they are Arduino based.
  
  Everything Customiable, from naming tag antenna, to type of antenna and what band covered by it.
  
