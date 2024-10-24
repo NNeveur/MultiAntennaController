@@ -42,6 +42,11 @@
 [SchemaBlock.pdf](https://github.com/user-attachments/files/16738437/SchemaBlock.pdf)
 
 ![IMG_1670](https://github.com/user-attachments/assets/ba0e0b99-8176-4418-924c-b44c9a60dfff)
+
+Freshly received first batch of PC Boards
+![image](https://github.com/user-attachments/assets/e416cea8-1786-43a4-8d4c-276d470a9a73)
+
+
 ![IMG_1671](https://github.com/user-attachments/assets/f32b2e2c-bac4-4b84-9242-889db57d662e)
 ![IMG_1672](https://github.com/user-attachments/assets/ab00cb9b-be40-42ff-91cd-fd59ae25800f)
 ![IMG_1673](https://github.com/user-attachments/assets/bdf118b8-10fb-4b7e-b318-145de197d539)
