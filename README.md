@@ -44,8 +44,7 @@
 ![IMG_1670](https://github.com/user-attachments/assets/ba0e0b99-8176-4418-924c-b44c9a60dfff)
 
 Freshly received first batch of PC Boards
-![image](https://github.com/user-attachments/assets/e416cea8-1786-43a4-8d4c-276d470a9a73)
-
+![boards](https://github.com/user-attachments/assets/047b2efb-7851-4c70-b0bb-6f45c0f8b9bf)
 
 ![IMG_1671](https://github.com/user-attachments/assets/f32b2e2c-bac4-4b84-9242-889db57d662e)
 ![IMG_1672](https://github.com/user-attachments/assets/ab00cb9b-be40-42ff-91cd-fd59ae25800f)
