@@ -611,6 +611,28 @@ void trigger32() // save LoopSetup
 void trigger33() // save VLSetup
 {
 //  saveEEPROM();
+  if (myNex.readNumber("c2.val")== 1)
+    vl_param.units=1;
+  else
+    vl_param.units=2;
+
+  if (myNex.readNumber("c0.val")== 1)
+    vl_param.MotorN=1;
+  else
+    vl_param.MotorN=2;
+
+  if (myNex.readNumber("c4.val")== 1)
+    vl_param.encoderN=1;
+  else
+    vl_param.encoderN=2;
+
+  vl_param.pulseround=myNex.readNumber("pulseround.val");                  // Position Information, referenced at 1000000
+  vl_param.unitsround=myNex.readNumber("roundlength.val");                  // Position Information, referenced at 1000000
+  vl_param.motorspeed=myNex.readNumber("motorspeed.val");                  // Position Information, referenced at 1000000
+  vl_param.maxlength=myNex.readNumber("maxlen.val");                  // Position Information, referenced at 1000000
+
+  saveEEPROM();    
+
   myNex.writeStr("page MenuSetup");
 }
 
